@@ -1,0 +1,5 @@
+<b>Setup</b><br><br>
+3k. Using interpolation, create the first line of text (use math to calculate the numbers 4 and 57.88).<br>
+3l. Create second line of text: Shipping & handling: $9.98 (use math).<br>
+3m. Create third line: Total before tax: $67.86 (use math).<br>
+3n. Create fourth line of text: Estimated tax (10%): $6.79 (use math and Math.round(...) to calculate the exact number).
